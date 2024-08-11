@@ -8,7 +8,7 @@ If you find our work useful in your research, please consider citing:
 
 ## Introduction
 
-This is a implementation of [**3D Gaze Tracking for Studying Collaborative Interactions in Mixed-Reality Environments**]().
+This is a implementation of [**3D Gaze Tracking for Studying Collaborative Interactions in Mixed-Reality Environments**](https://arxiv.org/abs/2406.11003).
 
 For more information, please visit the [**project page**]().
 
